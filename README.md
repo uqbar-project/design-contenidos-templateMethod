@@ -1,9 +1,8 @@
 
 
-## Composite Pattern: Archivos y Directorios
+## Template Method: Series y películas
 
-[![Build Status](https://travis-ci.com/uqbar-project/design-drive-composite.svg?branch=master)](https://travis-ci.com/uqbar-project/design-drive-composite)
 
-El presente ejemplo de archivos y directorios está explicado en el [siguiente video de youtube](https://youtu.be/Mjd3ssn0214)
+El presente ejemplo de archivos y directorios está explicado en el [siguiente video de youtube]()
 
-Las diapositivas disponibles en [este link](https://docs.google.com/presentation/d/12H3AEdPEgSMR67QIG15Z6ZmdF0w3M8589Bux9w_c5Y4/edit?usp=sharing)
+Las diapositivas disponibles en [este link](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
